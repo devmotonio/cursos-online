@@ -33,8 +33,8 @@
 -[Formação Profissional em Computação]
 
 #### Bimestre 2
--[Estatística e Probabilidade] (https://www.youtube.com/playlist?list=PLxI8Can9yAHdJq561NyRN9wZpTqVJn0Z0)
--[Programação Orientada a Objetos] (https://www.youtube.com/watch?v=tHXO_j4RfGw&list=PLxI8Can9yAHewZWSrlhpId71bk5N_W7W1)
+-[Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLxI8Can9yAHdJq561NyRN9wZpTqVJn0Z0)
+-[Programação Orientada a Objetos](https://www.youtube.com/watch?v=tHXO_j4RfGw&list=PLxI8Can9yAHewZWSrlhpId71bk5N_W7W1)
 -[Gestão da Inovação e Desenvolvimento de Produtos]
 
 ## Semestre 4
