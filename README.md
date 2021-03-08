@@ -1,7 +1,7 @@
 # cursos-online
 
-- [UNIVESP - Bacharel em Engenharia de Computação]
-- [UNIVESP - Bacharel em Ciência de Dados]
+- [UNIVESP - Bacharel em Engenharia de Computação](#univesp---bacharel-em-engenharia-de-computação)
+- [UNIVESP - Bacharel em Ciência de Dados](#univesp---bacharel-em-ci%C3%AAncia-de-dados)
 
 # UNIVESP - Bacharel em Engenharia de Computação
 
