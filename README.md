@@ -1,5 +1,8 @@
 # cursos-online
 
+- [UNIVESP - Bacharel em Engenharia de Computação]
+- [UNIVESP - Bacharel em Ciência de Dados]
+
 # UNIVESP - Bacharel em Engenharia de Computação
 
 ## Semestre 1
@@ -85,7 +88,7 @@
 
 #### Bimestre 2
 
-# UNIVESP - Bacharel em Engenharia de Computação
+# UNIVESP - Bacharel em Ciência de Dados
 
 ## Semestre 1
 
