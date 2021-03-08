@@ -28,32 +28,32 @@
 ## Semestre 3
 
 #### Bimestre 1
--[Sistemas Computacionais](https://www.youtube.com/playlist?list=PLxI8Can9yAHc4vnZM_lZmsPy8CaB215cz)
--[Estruturas de Dados](https://www.youtube.com/playlist?list=PLxI8Can9yAHf8k8LrUePyj0y3lLpigGcl)
--[Formação Profissional em Computação]
+- [Sistemas Computacionais](https://www.youtube.com/playlist?list=PLxI8Can9yAHc4vnZM_lZmsPy8CaB215cz)
+- [Estruturas de Dados](https://www.youtube.com/playlist?list=PLxI8Can9yAHf8k8LrUePyj0y3lLpigGcl)
+- [Formação Profissional em Computação]
 
 #### Bimestre 2
--[Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLxI8Can9yAHdJq561NyRN9wZpTqVJn0Z0)
--[Programação Orientada a Objetos](https://www.youtube.com/watch?v=tHXO_j4RfGw&list=PLxI8Can9yAHewZWSrlhpId71bk5N_W7W1)
--[Gestão da Inovação e Desenvolvimento de Produtos]
+- [Estatística e Probabilidade](https://www.youtube.com/playlist?list=PLxI8Can9yAHdJq561NyRN9wZpTqVJn0Z0)
+- [Programação Orientada a Objetos](https://www.youtube.com/watch?v=tHXO_j4RfGw&list=PLxI8Can9yAHewZWSrlhpId71bk5N_W7W1)
+- [Gestão da Inovação e Desenvolvimento de Produtos]
 
 ## Semestre 4
 
 #### Bimestre 1
--[Bancos de Dados](https://www.youtube.com/playlist?list=PLxI8Can9yAHeHQr2McJ01e-ANyh3K0Lfq)
--[Cálculo II](https://www.youtube.com/playlist?list=PLxI8Can9yAHeZfF4HwiVmv4D6n3acKLER)
+- [Bancos de Dados](https://www.youtube.com/playlist?list=PLxI8Can9yAHeHQr2McJ01e-ANyh3K0Lfq)
+- [Cálculo II](https://www.youtube.com/playlist?list=PLxI8Can9yAHeZfF4HwiVmv4D6n3acKLER)
 
 #### Bimestre 2
--[Física do Movimento]
--[Circuitos Digitais](https://www.youtube.com/watch?v=Fe6jf0DE9vs&list=PLxI8Can9yAHeOu5qbUa-Pc4hf2VB1Rw1_)
+- [Física do Movimento]
+- [Circuitos Digitais](https://www.youtube.com/watch?v=Fe6jf0DE9vs&list=PLxI8Can9yAHeOu5qbUa-Pc4hf2VB1Rw1_)
 
 ## Semestre 5
 
 #### Bimestre 1
--[Engenharia de Software](https://www.youtube.com/playlist?list=PLxI8Can9yAHfeoA_yMm9iKJVxQprljmL9)
+- [Engenharia de Software](https://www.youtube.com/playlist?list=PLxI8Can9yAHfeoA_yMm9iKJVxQprljmL9)
 
 #### Bimestre 2
--[Geometria Analítica e Álgebra Linear](https://www.youtube.com/playlist?list=PLxI8Can9yAHdDIbEMgrt1n-FdoQfLu2-t)
+- [Geometria Analítica e Álgebra Linear](https://www.youtube.com/playlist?list=PLxI8Can9yAHdDIbEMgrt1n-FdoQfLu2-t)
 
 ## Semestre 6
 
