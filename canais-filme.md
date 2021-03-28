@@ -1,8 +1,8 @@
 # Vídeo
 ### Inglês
-- Accented Cinema - https://www.youtube.com/channel/UCH_VqR5rFFhgjZmM31xA3Ag/videos
-- CinemaTyler - https://www.youtube.com/channel/UC7GV-3hrA9kDKrren0QMKMg/videos
-- Collative Learning - https://www.youtube.com/channel/UC9wMJIgU25UtMV3arDeHDyA/videos
+- Accented Cinema - https://www.youtube.com/c/AccentedCinema/videos
+- CinemaTyler - https://www.youtube.com/c/CinemaTyler/videos
+- Collative Learning - https://www.youtube.com/user/robag88/videos
 - Filmento - https://www.youtube.com/c/Filmento/videos 
 
 # Podcast
