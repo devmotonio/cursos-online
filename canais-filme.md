@@ -8,6 +8,7 @@
 - FilmComicsExplained - https://www.youtube.com/channel/UCisWUR5UCMcxz_4zT6mI3kA/videos
 - Filmento - https://www.youtube.com/c/Filmento/videos
 - Films&Stuff - https://www.youtube.com/channel/UCcddcRNcQfVwCMmvV2QWf8Q/videos
+- GoodBadFlicks - https://www.youtube.com/channel/UCtKttDTGqEbBrC7jDN2_axQ/videos
 
 # Podcast
 - Best Movies Never Made - https://open.spotify.com/show/7wFqsEi26hRTvH4DWjjk6R
