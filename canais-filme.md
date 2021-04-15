@@ -17,16 +17,16 @@
 - LowRes Wünderbred - https://www.youtube.com/channel/UCO9ePtV-QV5aM4W3sjczogg/videos
 - Macabre Storytelling - https://www.youtube.com/channel/UC32EI4CFRAoM8mmecuoe9Cw/videos
 - Marvelous Videos - https://www.youtube.com/channel/UCNZMOOmPJStgwhiJ3x-MZ_A/videos
--  RedLetterMedia - https://www.youtube.com/channel/UCrTNhL_yO3tPTdQ5XgmmWjA/videos
+- RedLetterMedia - https://www.youtube.com/channel/UCrTNhL_yO3tPTdQ5XgmmWjA/videos
 
 
 # Podcast
 ### Inglês
 - Best Movies Never Made - https://open.spotify.com/show/7wFqsEi26hRTvH4DWjjk6R
+- Don't Push Pause - https://open.spotify.com/show/1S1hyw3OgppBhCcDq8zZd3
+- How Did This Get Made? - http://www.earwolf.com/show/how-did-this-get-made/
 - I Like To Movie Movie - https://ilike2movie.libsyn.com/
 - I Love that Movie! - https://open.spotify.com/show/5j1JJBsVn87bchBsiycvgg
-- How Did This Get Made? - http://www.earwolf.com/show/how-did-this-get-made/
-
 
 # Podcast
 ### Espanhol
