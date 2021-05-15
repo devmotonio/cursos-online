@@ -18,6 +18,7 @@
 - Macabre Storytelling - https://www.youtube.com/channel/UC32EI4CFRAoM8mmecuoe9Cw/videos
 - Marvelous Videos - https://www.youtube.com/channel/UCNZMOOmPJStgwhiJ3x-MZ_A/videos
 - RedLetterMedia - https://www.youtube.com/channel/UCrTNhL_yO3tPTdQ5XgmmWjA/videos
+- Savage Books - https://www.youtube.com/channel/UCXyVz9-w9Ippr-j2Yz4zAcQ
 
 
 # Podcast
