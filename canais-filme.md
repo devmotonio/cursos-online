@@ -1,6 +1,7 @@
 # Vídeo
 ### Inglês
 - Accented Cinema - https://www.youtube.com/c/AccentedCinema/videos
+- All The Right Movies - https://www.youtube.com/channel/UC8w0ME4M1dlrByNVOTyH2mQ
 - CinemaTyler - https://www.youtube.com/c/CinemaTyler/videos
 - Collative Learning - https://www.youtube.com/user/robag88/videos
 - Daniel Netzel - https://www.youtube.com/c/FilmRadar/videos
